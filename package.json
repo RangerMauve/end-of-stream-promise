@@ -1,6 +1,6 @@
 {
   "name": "end-of-stream-promise",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Await the completion or erroring of a stream",
   "main": "index.js",
   "scripts": {
